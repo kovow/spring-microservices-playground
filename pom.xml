@@ -24,6 +24,9 @@
 		<module>eureka-server</module>
 		<module>eureka-client1</module>
 		<module>eureka-client2</module>
+		<module>zuul-proxy</module>
+		<module>hystrix-circuit-breaker</module>
+		<module>hystrix-dashboard</module>
 	</modules>
 
 </project>
