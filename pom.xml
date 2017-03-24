@@ -16,9 +16,14 @@
 	</properties>
 
 	<modules>
-		<module>spring-cloud-config-server</module>
-		<module>catalog</module>
-		<module>domain</module>
+		<module>config-server</module>
+		<module>config-client</module>
+		<module>config-client-bus-amqp</module>
+		<module>ribbon-lb-demo</module>
+		<module>feign-ribbon-demo</module>
+		<module>eureka-server</module>
+		<module>eureka-client1</module>
+		<module>eureka-client2</module>
 	</modules>
 
 </project>
